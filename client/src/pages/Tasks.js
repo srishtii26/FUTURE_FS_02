@@ -40,7 +40,7 @@ export default function Tasks() {
 
       const res =
         await axios.get(
-          "http://localhost:5000/api/tasks",
+          "https://future-fs-02-crm-backend.onrender.com/api/tasks",
           {
             headers: {
               Authorization:
@@ -80,7 +80,7 @@ export default function Tasks() {
         );
 
       await axios.post(
-        "http://localhost:5000/api/tasks",
+        "https://future-fs-02-crm-backend.onrender.com/api/tasks",
         formData,
         {
           headers: {
@@ -121,7 +121,7 @@ export default function Tasks() {
         );
 
       await axios.put(
-        `http://localhost:5000/api/tasks/${id}`,
+        `https://future-fs-02-crm-backend.onrender.com/api/tasks/${id}`,
         { status },
         {
           headers: {
@@ -150,7 +150,7 @@ export default function Tasks() {
         );
 
       await axios.delete(
-        `http://localhost:5000/api/tasks/${id}`,
+        `https://future-fs-02-crm-backend.onrender.com/api/tasks/${id}`,
         {
           headers: {
             Authorization:

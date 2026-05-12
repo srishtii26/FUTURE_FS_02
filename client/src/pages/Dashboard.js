@@ -157,7 +157,7 @@ const [analytics, setAnalytics] =
 
       const res =
         await axios.get(
-          "http://localhost:5000/api/leads",
+          "https://future-fs-02-crm-backend.onrender.com/api/leads",
           {
             headers: {
               Authorization:
@@ -185,7 +185,7 @@ const [analytics, setAnalytics] =
 
     const res =
       await axios.get(
-        "http://localhost:5000/api/analytics",
+        "https://future-fs-02-crm-backend.onrender.com/api/analytics",
         {
           headers: {
             Authorization:
@@ -225,7 +225,7 @@ const [analytics, setAnalytics] =
         );
 
       await axios.post(
-        "http://localhost:5000/api/leads",
+        "https://future-fs-02-crm-backend.onrender.com/api/leads",
         formData,
         {
           headers: {
@@ -267,7 +267,7 @@ const [analytics, setAnalytics] =
         );
 
       await axios.put(
-        `http://localhost:5000/api/leads/${id}`,
+        `https://future-fs-02-crm-backend.onrender.com/api/leads/${id}`,
         { status },
         {
           headers: {

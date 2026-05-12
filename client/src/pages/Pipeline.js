@@ -29,7 +29,7 @@ const [selectedLead, setSelectedLead] =
 
       const res =
         await axios.get(
-          "http://localhost:5000/api/leads",
+          "https://future-fs-02-crm-backend.onrender.com/api/leads",
           {
             headers: {
               Authorization:

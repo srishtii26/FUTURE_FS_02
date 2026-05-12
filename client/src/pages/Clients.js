@@ -71,7 +71,7 @@ export default function Clients() {
     try {
 
       await axios.post(
-        "http://localhost:5000/api/upload",
+        "https://future-fs-02-crm-backend.onrender.com/api/upload",
         formData
       );
 
@@ -96,7 +96,7 @@ export default function Clients() {
     try {
 
       await axios.post(
-        "http://localhost:5000/api/mail/send",
+        "https://future-fs-02-crm-backend.onrender.com/api/mail/send",
         {
           email,
           subject,
