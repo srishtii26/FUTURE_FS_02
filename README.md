@@ -377,14 +377,22 @@ for successful production deployment.
 # 📸 Screenshots
 
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/31f42e45-14cf-4c2e-840f-1d23672c9c8d" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/e07dff28-41f2-4fcc-8115-deade126be55" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/95f77be5-1ad8-4fc7-a2c2-38ed78e4d169" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/e5a456a9-7959-41a5-a9e3-ce6b537de2da" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/0f33690f-1f45-43cf-897e-9d64eac37524" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/76bddb44-bc6f-4970-9643-f7df7bc4bb4f" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/29ffe347-10b0-4554-b40f-bb2db40e5966" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/b2f01aa5-7d13-4988-82da-d62d16297e04" />
-<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/91bcd03f-e87e-4323-866e-bab6a4ef5499" />
+
+<img width="960" height="540" alt="Screenshot 2026-05-14 145926" src="https://github.com/user-attachments/assets/98bb90f9-75a7-45e3-84d2-050f17d85ed1" />
+
+<img width="960" height="540" alt="Screenshot 2026-05-14 145936" src="https://github.com/user-attachments/assets/a1c38f3f-7fd8-4984-bc36-0e28f69eecbe" />
+
+<img width="960" height="540" alt="Screenshot 2026-05-14 150014" src="https://github.com/user-attachments/assets/1f79f531-9f64-4978-bd33-7a76295f80d5" />
+
+<img width="960" height="540" alt="Screenshot 2026-05-14 150036" src="https://github.com/user-attachments/assets/49f650b1-5273-4365-ac2e-82b0ea7fbfe7" />
+
+<img width="960" height="540" alt="Screenshot 2026-05-14 150113" src="https://github.com/user-attachments/assets/847feab2-5e25-4378-ae4b-93aae9be96ce" />
+
+<img width="960" height="540" alt="Screenshot 2026-05-14 150142" src="https://github.com/user-attachments/assets/e332eb35-c920-4629-93c0-20ac9cdbc770" />
+
+
+<img width="960" height="540" alt="Screenshot 2026-05-14 150219" src="https://github.com/user-attachments/assets/237dbf89-a680-466c-a86b-3914c4646cdd" />
+
 
 # 🎨 UI/UX Highlights
 
