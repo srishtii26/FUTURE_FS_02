@@ -384,7 +384,9 @@ for successful production deployment.
 
 <img width="960" height="540" alt="Screenshot 2026-05-14 150014" src="https://github.com/user-attachments/assets/1f79f531-9f64-4978-bd33-7a76295f80d5" />
 
-<img width="960" height="540" alt="Screenshot 2026-05-14 150036" src="https://github.com/user-attachments/assets/49f650b1-5273-4365-ac2e-82b0ea7fbfe7" />
+
+<img width="960" height="540" alt="Screenshot 2026-05-14 150548" src="https://github.com/user-attachments/assets/9811c607-1cbb-41a5-bb49-ccd523724326" />
+
 
 <img width="960" height="540" alt="Screenshot 2026-05-14 150113" src="https://github.com/user-attachments/assets/847feab2-5e25-4378-ae4b-93aae9be96ce" />
 
