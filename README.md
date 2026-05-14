@@ -14,7 +14,19 @@ https://github.com/srishtii26/FUTURE_FS_02.git
 https://future-fs-02-crm-backend.onrender.com
 
 ---
+# 🔑 Demo Login Credentials
 
+Use the following credentials to access the CRM dashboard:
+
+```txt
+Email: admin@gmail.com
+Password: 123456
+```
+
+---
+
+⚠️ Note:
+These credentials are for demo/testing purposes only.
 # 🚀 Overview
 
 CRM Pro is a recruiter-level full-stack SaaS CRM application designed with a premium modern UI and real-world business workflow features.
@@ -365,11 +377,14 @@ for successful production deployment.
 # 📸 Screenshots
 
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/31f42e45-14cf-4c2e-840f-1d23672c9c8d" />
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/e07dff28-41f2-4fcc-8115-deade126be55" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/95f77be5-1ad8-4fc7-a2c2-38ed78e4d169" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/e5a456a9-7959-41a5-a9e3-ce6b537de2da" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/0f33690f-1f45-43cf-897e-9d64eac37524" />
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/76bddb44-bc6f-4970-9643-f7df7bc4bb4f" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/29ffe347-10b0-4554-b40f-bb2db40e5966" />
 <img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/b2f01aa5-7d13-4988-82da-d62d16297e04" />
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/91bcd03f-e87e-4323-866e-bab6a4ef5499" />
 
 # 🎨 UI/UX Highlights
 
